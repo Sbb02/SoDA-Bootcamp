@@ -1,0 +1,22 @@
+{
+  "name": "soda-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "init start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sbb02/SoDA-Bootcamp.git"
+  },
+  "author": "Sohum Berdia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sbb02/SoDA-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/Sbb02/SoDA-Bootcamp#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
